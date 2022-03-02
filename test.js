@@ -1,3 +1,4 @@
-const a = "jopaassaaa";
+const a = "basdasdasla";
 jopa;
+
 eden basaslassa
